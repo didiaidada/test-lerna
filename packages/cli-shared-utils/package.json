@@ -17,7 +17,9 @@
     "access": "public"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "version": "npm run build",
+    "build": "echo \"开始build\""
   },
   "gitHead": "878da410a62c0bd8a400f28b4ed7353f79e0a76f"
 }
