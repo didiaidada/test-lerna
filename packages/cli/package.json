@@ -1,6 +1,6 @@
 {
   "name": "y",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "xiaodan <xiaodan@chinamobile.com>",
   "homepage": "",
@@ -18,5 +18,6 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "878da410a62c0bd8a400f28b4ed7353f79e0a76f"
 }
